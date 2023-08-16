@@ -1,0 +1,15 @@
+/home/mclo/t27b/c#/dia2/SwitchCase/obj/Debug/net6.0/SwitchCase.csproj.AssemblyReference.cache
+/home/mclo/t27b/c#/dia2/SwitchCase/obj/Debug/net6.0/SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+/home/mclo/t27b/c#/dia2/SwitchCase/obj/Debug/net6.0/SwitchCase.AssemblyInfoInputs.cache
+/home/mclo/t27b/c#/dia2/SwitchCase/obj/Debug/net6.0/SwitchCase.AssemblyInfo.cs
+/home/mclo/t27b/c#/dia2/SwitchCase/obj/Debug/net6.0/SwitchCase.csproj.CoreCompileInputs.cache
+/home/mclo/t27b/c#/dia2/SwitchCase/bin/Debug/net6.0/SwitchCase
+/home/mclo/t27b/c#/dia2/SwitchCase/bin/Debug/net6.0/SwitchCase.deps.json
+/home/mclo/t27b/c#/dia2/SwitchCase/bin/Debug/net6.0/SwitchCase.runtimeconfig.json
+/home/mclo/t27b/c#/dia2/SwitchCase/bin/Debug/net6.0/SwitchCase.dll
+/home/mclo/t27b/c#/dia2/SwitchCase/bin/Debug/net6.0/ref/SwitchCase.dll
+/home/mclo/t27b/c#/dia2/SwitchCase/bin/Debug/net6.0/SwitchCase.pdb
+/home/mclo/t27b/c#/dia2/SwitchCase/obj/Debug/net6.0/SwitchCase.dll
+/home/mclo/t27b/c#/dia2/SwitchCase/obj/Debug/net6.0/ref/SwitchCase.dll
+/home/mclo/t27b/c#/dia2/SwitchCase/obj/Debug/net6.0/SwitchCase.pdb
+/home/mclo/t27b/c#/dia2/SwitchCase/obj/Debug/net6.0/SwitchCase.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/mclo/t27b/c#/dia2/ifelse/bin/Debug/net6.0/ifelse
+/home/mclo/t27b/c#/dia2/ifelse/bin/Debug/net6.0/ifelse.deps.json
+/home/mclo/t27b/c#/dia2/ifelse/bin/Debug/net6.0/ifelse.runtimeconfig.json
+/home/mclo/t27b/c#/dia2/ifelse/bin/Debug/net6.0/ifelse.dll
+/home/mclo/t27b/c#/dia2/ifelse/bin/Debug/net6.0/ref/ifelse.dll
+/home/mclo/t27b/c#/dia2/ifelse/bin/Debug/net6.0/ifelse.pdb
+/home/mclo/t27b/c#/dia2/ifelse/obj/Debug/net6.0/ifelse.csproj.AssemblyReference.cache
+/home/mclo/t27b/c#/dia2/ifelse/obj/Debug/net6.0/ifelse.GeneratedMSBuildEditorConfig.editorconfig
+/home/mclo/t27b/c#/dia2/ifelse/obj/Debug/net6.0/ifelse.AssemblyInfoInputs.cache
+/home/mclo/t27b/c#/dia2/ifelse/obj/Debug/net6.0/ifelse.AssemblyInfo.cs
+/home/mclo/t27b/c#/dia2/ifelse/obj/Debug/net6.0/ifelse.csproj.CoreCompileInputs.cache
+/home/mclo/t27b/c#/dia2/ifelse/obj/Debug/net6.0/ifelse.dll
+/home/mclo/t27b/c#/dia2/ifelse/obj/Debug/net6.0/ref/ifelse.dll
+/home/mclo/t27b/c#/dia2/ifelse/obj/Debug/net6.0/ifelse.pdb
+/home/mclo/t27b/c#/dia2/ifelse/obj/Debug/net6.0/ifelse.genruntimeconfig.cache

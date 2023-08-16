@@ -1,0 +1,15 @@
+/home/mclo/t27b/c#/dia1/canConvert/convert/bin/Debug/net6.0/convert
+/home/mclo/t27b/c#/dia1/canConvert/convert/bin/Debug/net6.0/convert.deps.json
+/home/mclo/t27b/c#/dia1/canConvert/convert/bin/Debug/net6.0/convert.runtimeconfig.json
+/home/mclo/t27b/c#/dia1/canConvert/convert/bin/Debug/net6.0/convert.dll
+/home/mclo/t27b/c#/dia1/canConvert/convert/bin/Debug/net6.0/ref/convert.dll
+/home/mclo/t27b/c#/dia1/canConvert/convert/bin/Debug/net6.0/convert.pdb
+/home/mclo/t27b/c#/dia1/canConvert/convert/obj/Debug/net6.0/convert.csproj.AssemblyReference.cache
+/home/mclo/t27b/c#/dia1/canConvert/convert/obj/Debug/net6.0/convert.GeneratedMSBuildEditorConfig.editorconfig
+/home/mclo/t27b/c#/dia1/canConvert/convert/obj/Debug/net6.0/convert.AssemblyInfoInputs.cache
+/home/mclo/t27b/c#/dia1/canConvert/convert/obj/Debug/net6.0/convert.AssemblyInfo.cs
+/home/mclo/t27b/c#/dia1/canConvert/convert/obj/Debug/net6.0/convert.csproj.CoreCompileInputs.cache
+/home/mclo/t27b/c#/dia1/canConvert/convert/obj/Debug/net6.0/convert.dll
+/home/mclo/t27b/c#/dia1/canConvert/convert/obj/Debug/net6.0/ref/convert.dll
+/home/mclo/t27b/c#/dia1/canConvert/convert/obj/Debug/net6.0/convert.pdb
+/home/mclo/t27b/c#/dia1/canConvert/convert/obj/Debug/net6.0/convert.genruntimeconfig.cache

@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/mclo/t27b/c#/dia2/stringxnumber/stringxnumber.csproj": {}
+  },
+  "projects": {
+    "/home/mclo/t27b/c#/dia2/stringxnumber/stringxnumber.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mclo/t27b/c#/dia2/stringxnumber/stringxnumber.csproj",
+        "projectName": "stringxnumber",
+        "projectPath": "/home/mclo/t27b/c#/dia2/stringxnumber/stringxnumber.csproj",
+        "packagesPath": "/home/mclo/.nuget/packages/",
+        "outputPath": "/home/mclo/t27b/c#/dia2/stringxnumber/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mclo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.121/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

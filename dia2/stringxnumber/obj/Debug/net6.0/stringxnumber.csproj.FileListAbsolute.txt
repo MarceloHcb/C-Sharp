@@ -1,0 +1,15 @@
+/home/mclo/t27b/c#/dia2/stringxnumber/bin/Debug/net6.0/stringxnumber
+/home/mclo/t27b/c#/dia2/stringxnumber/bin/Debug/net6.0/stringxnumber.deps.json
+/home/mclo/t27b/c#/dia2/stringxnumber/bin/Debug/net6.0/stringxnumber.runtimeconfig.json
+/home/mclo/t27b/c#/dia2/stringxnumber/bin/Debug/net6.0/stringxnumber.dll
+/home/mclo/t27b/c#/dia2/stringxnumber/bin/Debug/net6.0/ref/stringxnumber.dll
+/home/mclo/t27b/c#/dia2/stringxnumber/bin/Debug/net6.0/stringxnumber.pdb
+/home/mclo/t27b/c#/dia2/stringxnumber/obj/Debug/net6.0/stringxnumber.csproj.AssemblyReference.cache
+/home/mclo/t27b/c#/dia2/stringxnumber/obj/Debug/net6.0/stringxnumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/mclo/t27b/c#/dia2/stringxnumber/obj/Debug/net6.0/stringxnumber.AssemblyInfoInputs.cache
+/home/mclo/t27b/c#/dia2/stringxnumber/obj/Debug/net6.0/stringxnumber.AssemblyInfo.cs
+/home/mclo/t27b/c#/dia2/stringxnumber/obj/Debug/net6.0/stringxnumber.csproj.CoreCompileInputs.cache
+/home/mclo/t27b/c#/dia2/stringxnumber/obj/Debug/net6.0/stringxnumber.dll
+/home/mclo/t27b/c#/dia2/stringxnumber/obj/Debug/net6.0/ref/stringxnumber.dll
+/home/mclo/t27b/c#/dia2/stringxnumber/obj/Debug/net6.0/stringxnumber.pdb
+/home/mclo/t27b/c#/dia2/stringxnumber/obj/Debug/net6.0/stringxnumber.genruntimeconfig.cache
