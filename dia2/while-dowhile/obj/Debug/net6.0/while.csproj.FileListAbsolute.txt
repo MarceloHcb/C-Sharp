@@ -1,0 +1,15 @@
+/home/mclo/t27b/c#/dia2/while/bin/Debug/net6.0/while
+/home/mclo/t27b/c#/dia2/while/bin/Debug/net6.0/while.deps.json
+/home/mclo/t27b/c#/dia2/while/bin/Debug/net6.0/while.runtimeconfig.json
+/home/mclo/t27b/c#/dia2/while/bin/Debug/net6.0/while.dll
+/home/mclo/t27b/c#/dia2/while/bin/Debug/net6.0/ref/while.dll
+/home/mclo/t27b/c#/dia2/while/bin/Debug/net6.0/while.pdb
+/home/mclo/t27b/c#/dia2/while/obj/Debug/net6.0/while.csproj.AssemblyReference.cache
+/home/mclo/t27b/c#/dia2/while/obj/Debug/net6.0/while.GeneratedMSBuildEditorConfig.editorconfig
+/home/mclo/t27b/c#/dia2/while/obj/Debug/net6.0/while.AssemblyInfoInputs.cache
+/home/mclo/t27b/c#/dia2/while/obj/Debug/net6.0/while.AssemblyInfo.cs
+/home/mclo/t27b/c#/dia2/while/obj/Debug/net6.0/while.csproj.CoreCompileInputs.cache
+/home/mclo/t27b/c#/dia2/while/obj/Debug/net6.0/while.dll
+/home/mclo/t27b/c#/dia2/while/obj/Debug/net6.0/ref/while.dll
+/home/mclo/t27b/c#/dia2/while/obj/Debug/net6.0/while.pdb
+/home/mclo/t27b/c#/dia2/while/obj/Debug/net6.0/while.genruntimeconfig.cache

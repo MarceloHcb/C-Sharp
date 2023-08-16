@@ -1,0 +1,15 @@
+/home/mclo/t27b/c#/dia2/for-forEach/bin/Debug/net6.0/for-forEach
+/home/mclo/t27b/c#/dia2/for-forEach/bin/Debug/net6.0/for-forEach.deps.json
+/home/mclo/t27b/c#/dia2/for-forEach/bin/Debug/net6.0/for-forEach.runtimeconfig.json
+/home/mclo/t27b/c#/dia2/for-forEach/bin/Debug/net6.0/for-forEach.dll
+/home/mclo/t27b/c#/dia2/for-forEach/bin/Debug/net6.0/ref/for-forEach.dll
+/home/mclo/t27b/c#/dia2/for-forEach/bin/Debug/net6.0/for-forEach.pdb
+/home/mclo/t27b/c#/dia2/for-forEach/obj/Debug/net6.0/for-forEach.csproj.AssemblyReference.cache
+/home/mclo/t27b/c#/dia2/for-forEach/obj/Debug/net6.0/for-forEach.GeneratedMSBuildEditorConfig.editorconfig
+/home/mclo/t27b/c#/dia2/for-forEach/obj/Debug/net6.0/for-forEach.AssemblyInfoInputs.cache
+/home/mclo/t27b/c#/dia2/for-forEach/obj/Debug/net6.0/for-forEach.AssemblyInfo.cs
+/home/mclo/t27b/c#/dia2/for-forEach/obj/Debug/net6.0/for-forEach.csproj.CoreCompileInputs.cache
+/home/mclo/t27b/c#/dia2/for-forEach/obj/Debug/net6.0/for-forEach.dll
+/home/mclo/t27b/c#/dia2/for-forEach/obj/Debug/net6.0/ref/for-forEach.dll
+/home/mclo/t27b/c#/dia2/for-forEach/obj/Debug/net6.0/for-forEach.pdb
+/home/mclo/t27b/c#/dia2/for-forEach/obj/Debug/net6.0/for-forEach.genruntimeconfig.cache

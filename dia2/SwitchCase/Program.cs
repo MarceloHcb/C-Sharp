@@ -13,7 +13,7 @@ public static string IdentifyPolygon(int sideCount)
         };
         return name;
 }
-  public static void Main(string[] args)
+  public static void Main()
     {   
         Console.WriteLine("Digite o número de lados do polígono");
         int sides = int.Parse(Console.ReadLine()?.Trim() ?? "0");       
