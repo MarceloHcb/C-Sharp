@@ -1,0 +1,15 @@
+/home/mclo/t27b/c#/dia3/arrays/bin/Debug/net6.0/arrays
+/home/mclo/t27b/c#/dia3/arrays/bin/Debug/net6.0/arrays.deps.json
+/home/mclo/t27b/c#/dia3/arrays/bin/Debug/net6.0/arrays.runtimeconfig.json
+/home/mclo/t27b/c#/dia3/arrays/bin/Debug/net6.0/arrays.dll
+/home/mclo/t27b/c#/dia3/arrays/bin/Debug/net6.0/ref/arrays.dll
+/home/mclo/t27b/c#/dia3/arrays/bin/Debug/net6.0/arrays.pdb
+/home/mclo/t27b/c#/dia3/arrays/obj/Debug/net6.0/arrays.csproj.AssemblyReference.cache
+/home/mclo/t27b/c#/dia3/arrays/obj/Debug/net6.0/arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/mclo/t27b/c#/dia3/arrays/obj/Debug/net6.0/arrays.AssemblyInfoInputs.cache
+/home/mclo/t27b/c#/dia3/arrays/obj/Debug/net6.0/arrays.AssemblyInfo.cs
+/home/mclo/t27b/c#/dia3/arrays/obj/Debug/net6.0/arrays.csproj.CoreCompileInputs.cache
+/home/mclo/t27b/c#/dia3/arrays/obj/Debug/net6.0/arrays.dll
+/home/mclo/t27b/c#/dia3/arrays/obj/Debug/net6.0/ref/arrays.dll
+/home/mclo/t27b/c#/dia3/arrays/obj/Debug/net6.0/arrays.pdb
+/home/mclo/t27b/c#/dia3/arrays/obj/Debug/net6.0/arrays.genruntimeconfig.cache

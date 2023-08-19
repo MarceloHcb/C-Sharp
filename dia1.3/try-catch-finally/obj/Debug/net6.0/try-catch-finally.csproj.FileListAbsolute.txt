@@ -1,0 +1,15 @@
+/home/mclo/t27b/c#/dia3/try-catch-finally/bin/Debug/net6.0/try-catch-finally
+/home/mclo/t27b/c#/dia3/try-catch-finally/bin/Debug/net6.0/try-catch-finally.deps.json
+/home/mclo/t27b/c#/dia3/try-catch-finally/bin/Debug/net6.0/try-catch-finally.runtimeconfig.json
+/home/mclo/t27b/c#/dia3/try-catch-finally/bin/Debug/net6.0/try-catch-finally.dll
+/home/mclo/t27b/c#/dia3/try-catch-finally/bin/Debug/net6.0/ref/try-catch-finally.dll
+/home/mclo/t27b/c#/dia3/try-catch-finally/bin/Debug/net6.0/try-catch-finally.pdb
+/home/mclo/t27b/c#/dia3/try-catch-finally/obj/Debug/net6.0/try-catch-finally.csproj.AssemblyReference.cache
+/home/mclo/t27b/c#/dia3/try-catch-finally/obj/Debug/net6.0/try-catch-finally.GeneratedMSBuildEditorConfig.editorconfig
+/home/mclo/t27b/c#/dia3/try-catch-finally/obj/Debug/net6.0/try-catch-finally.AssemblyInfoInputs.cache
+/home/mclo/t27b/c#/dia3/try-catch-finally/obj/Debug/net6.0/try-catch-finally.AssemblyInfo.cs
+/home/mclo/t27b/c#/dia3/try-catch-finally/obj/Debug/net6.0/try-catch-finally.csproj.CoreCompileInputs.cache
+/home/mclo/t27b/c#/dia3/try-catch-finally/obj/Debug/net6.0/try-catch-finally.dll
+/home/mclo/t27b/c#/dia3/try-catch-finally/obj/Debug/net6.0/ref/try-catch-finally.dll
+/home/mclo/t27b/c#/dia3/try-catch-finally/obj/Debug/net6.0/try-catch-finally.pdb
+/home/mclo/t27b/c#/dia3/try-catch-finally/obj/Debug/net6.0/try-catch-finally.genruntimeconfig.cache
