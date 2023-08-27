@@ -1,0 +1,15 @@
+/home/mclo/t27b/c#/aula-ao-vivo/aula1/obj/Debug/net6.0/aula1.csproj.AssemblyReference.cache
+/home/mclo/t27b/c#/aula-ao-vivo/aula1/obj/Debug/net6.0/aula1.GeneratedMSBuildEditorConfig.editorconfig
+/home/mclo/t27b/c#/aula-ao-vivo/aula1/obj/Debug/net6.0/aula1.AssemblyInfoInputs.cache
+/home/mclo/t27b/c#/aula-ao-vivo/aula1/obj/Debug/net6.0/aula1.AssemblyInfo.cs
+/home/mclo/t27b/c#/aula-ao-vivo/aula1/obj/Debug/net6.0/aula1.csproj.CoreCompileInputs.cache
+/home/mclo/t27b/c#/aula-ao-vivo/aula1/bin/Debug/net6.0/aula1
+/home/mclo/t27b/c#/aula-ao-vivo/aula1/bin/Debug/net6.0/aula1.deps.json
+/home/mclo/t27b/c#/aula-ao-vivo/aula1/bin/Debug/net6.0/aula1.runtimeconfig.json
+/home/mclo/t27b/c#/aula-ao-vivo/aula1/bin/Debug/net6.0/aula1.dll
+/home/mclo/t27b/c#/aula-ao-vivo/aula1/bin/Debug/net6.0/ref/aula1.dll
+/home/mclo/t27b/c#/aula-ao-vivo/aula1/bin/Debug/net6.0/aula1.pdb
+/home/mclo/t27b/c#/aula-ao-vivo/aula1/obj/Debug/net6.0/aula1.dll
+/home/mclo/t27b/c#/aula-ao-vivo/aula1/obj/Debug/net6.0/ref/aula1.dll
+/home/mclo/t27b/c#/aula-ao-vivo/aula1/obj/Debug/net6.0/aula1.pdb
+/home/mclo/t27b/c#/aula-ao-vivo/aula1/obj/Debug/net6.0/aula1.genruntimeconfig.cache
